@@ -37,6 +37,7 @@ Beluga-Challenge-Solver/
 ├── docs/ # Documentation and results (e.g., PDFs)
 └── README.md # Project readme
 
+
 ## 🚀 How to Run
 
 To execute the solver on a Beluga problem instance:

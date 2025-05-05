@@ -12,6 +12,7 @@ The **Beluga Challenge** simulates a complex planning problem involving the move
 
 ## 📁 Folder Structure
 
+```bash
 Beluga-Challenge-Solver/
 ├── beluga_loader.py              # Loads and parses input instance data
 ├── beluga_state.py               # Defines state representation and transitions
@@ -36,6 +37,7 @@ Beluga-Challenge-Solver/
 ├── prototypes/                   # Folder for different prototypes
 ├── docs/                         # Documentation and results (e.g., PDFs)
 └── README.md                     # Project readme
+```
 
 
 ## 🚀 How to Run

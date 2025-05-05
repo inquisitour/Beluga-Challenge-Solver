@@ -13,29 +13,29 @@ The **Beluga Challenge** simulates a complex planning problem involving the move
 ## 📁 Folder Structure
 
 Beluga-Challenge-Solver/
-├── beluga_loader.py # Loads and parses input instance data
-├── beluga_state.py # Defines state representation and transitions
-├── beluga_actions.py # Action classes and valid operations
-├── beluga_heuristic.py # Heuristic functions for planning
-├── beluga_astar.py # A* search implementation
-├── beluga_goal.py # Goal-checking mechanisms
-├── beluga_utils.py # Visualization and utility helpers
-├── beluga_verification.py # Plan verification logic
-├── beluga_debug.py # Debugging utilities and trace tools
-├── run_beluga_solver.py # Main script to run the solver
-├── test_astar.py # Unit tests for A* search 
-├── beluga_csp.py # CSP-based planning module
-├── beluga_hybrid_solver.py # Hybrid approach combining CSP and search
-├── run_hybrid_experiments.py # Script to run hybrid experiments
-├── analyze_hybrid_results.py # Analyzer for hybrid experiment outputs
-├── beluga_local_search.py # Local search strategy implementation
-├── beluga_forward_checking.py # Forward-checking constraint solver
-├── improved_analyze_results.py # Refined analysis scripts
-├── improved_run_experiments.py # Improved experiment runner
-├── problem_instances/ # Folder for JSON problem file(s)
-├── prototypes/ # Folder for different prototypes
-├── docs/ # Documentation and results (e.g., PDFs)
-└── README.md # Project readme
+├── beluga_loader.py              # Loads and parses input instance data
+├── beluga_state.py               # Defines state representation and transitions
+├── beluga_actions.py             # Action classes and valid operations
+├── beluga_heuristic.py           # Heuristic functions for planning
+├── beluga_astar.py               # A* search implementation
+├── beluga_goal.py                # Goal-checking mechanisms
+├── beluga_utils.py               # Visualization and utility helpers
+├── beluga_verification.py        # Plan verification logic
+├── beluga_debug.py               # Debugging utilities and trace tools
+├── run_beluga_solver.py          # Main script to run the solver
+├── test_astar.py                 # Unit tests for A* search 
+├── beluga_csp.py                 # CSP-based planning module
+├── beluga_hybrid_solver.py       # Hybrid approach combining CSP and search
+├── run_hybrid_experiments.py     # Script to run hybrid experiments
+├── analyze_hybrid_results.py     # Analyzer for hybrid experiment outputs
+├── beluga_local_search.py        # Local search strategy implementation
+├── beluga_forward_checking.py    # Forward-checking constraint solver
+├── improved_analyze_results.py   # Refined analysis scripts
+├── improved_run_experiments.py   # Improved experiment runner
+├── problem_instances/            # Folder for JSON problem file(s)
+├── prototypes/                   # Folder for different prototypes
+├── docs/                         # Documentation and results (e.g., PDFs)
+└── README.md                     # Project readme
 
 
 ## 🚀 How to Run
